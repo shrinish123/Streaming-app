@@ -1,0 +1,26 @@
+.video__main{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100vw;
+    height:100vh;
+}
+
+.stream__main{
+    display: flex;
+    
+}
+
+.chat__main{
+    display: flex;
+    
+}
+
+.emptyState{
+    margin-top: 300px;
+    font-size: 40px;
+    color:chocolate;
+    text-align: center;
+}

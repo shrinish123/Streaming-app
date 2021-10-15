@@ -1,0 +1,46 @@
+.comment__container{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    width:100%;
+}
+
+.img__container{
+    padding:7px;
+    width:40px;
+    height:40px;
+    margin-left: 2px;
+}
+
+.image{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width:30px;
+    height:30px;
+}
+
+.comment__messageBox{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.comment__timeStamp{
+    font-size: 0.7rem;
+    color: gray;
+    margin-right:5px;
+}
+
+.comment__name{
+    color:grey;
+    font-weight: 600;
+    margin-right:5px;
+}
+/* 
+.comment__message{
+  
+} */
